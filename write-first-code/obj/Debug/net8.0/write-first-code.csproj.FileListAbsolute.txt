@@ -1,0 +1,15 @@
+C:\belajar-bahasa-pemrograman-csharp\write-first-code\bin\Debug\net8.0\write-first-code.exe
+C:\belajar-bahasa-pemrograman-csharp\write-first-code\bin\Debug\net8.0\write-first-code.deps.json
+C:\belajar-bahasa-pemrograman-csharp\write-first-code\bin\Debug\net8.0\write-first-code.runtimeconfig.json
+C:\belajar-bahasa-pemrograman-csharp\write-first-code\bin\Debug\net8.0\write-first-code.dll
+C:\belajar-bahasa-pemrograman-csharp\write-first-code\bin\Debug\net8.0\write-first-code.pdb
+C:\belajar-bahasa-pemrograman-csharp\write-first-code\obj\Debug\net8.0\write-first-code.GeneratedMSBuildEditorConfig.editorconfig
+C:\belajar-bahasa-pemrograman-csharp\write-first-code\obj\Debug\net8.0\write-first-code.AssemblyInfoInputs.cache
+C:\belajar-bahasa-pemrograman-csharp\write-first-code\obj\Debug\net8.0\write-first-code.AssemblyInfo.cs
+C:\belajar-bahasa-pemrograman-csharp\write-first-code\obj\Debug\net8.0\write-first-code.csproj.CoreCompileInputs.cache
+C:\belajar-bahasa-pemrograman-csharp\write-first-code\obj\Debug\net8.0\write-first-code.sourcelink.json
+C:\belajar-bahasa-pemrograman-csharp\write-first-code\obj\Debug\net8.0\write-first-code.dll
+C:\belajar-bahasa-pemrograman-csharp\write-first-code\obj\Debug\net8.0\refint\write-first-code.dll
+C:\belajar-bahasa-pemrograman-csharp\write-first-code\obj\Debug\net8.0\write-first-code.pdb
+C:\belajar-bahasa-pemrograman-csharp\write-first-code\obj\Debug\net8.0\write-first-code.genruntimeconfig.cache
+C:\belajar-bahasa-pemrograman-csharp\write-first-code\obj\Debug\net8.0\ref\write-first-code.dll
