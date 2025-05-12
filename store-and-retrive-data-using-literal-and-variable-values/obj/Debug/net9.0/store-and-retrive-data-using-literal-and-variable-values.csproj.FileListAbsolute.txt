@@ -1,0 +1,15 @@
+C:\belajar-bahasa-pemrograman-csharp\store-and-retrive-data-using-literal-and-variable-values\obj\Debug\net9.0\store-and-retrive-data-using-literal-and-variable-values.GeneratedMSBuildEditorConfig.editorconfig
+C:\belajar-bahasa-pemrograman-csharp\store-and-retrive-data-using-literal-and-variable-values\obj\Debug\net9.0\store-and-retrive-data-using-literal-and-variable-values.AssemblyInfoInputs.cache
+C:\belajar-bahasa-pemrograman-csharp\store-and-retrive-data-using-literal-and-variable-values\obj\Debug\net9.0\store-and-retrive-data-using-literal-and-variable-values.AssemblyInfo.cs
+C:\belajar-bahasa-pemrograman-csharp\store-and-retrive-data-using-literal-and-variable-values\obj\Debug\net9.0\store-and-retrive-data-using-literal-and-variable-values.csproj.CoreCompileInputs.cache
+C:\belajar-bahasa-pemrograman-csharp\store-and-retrive-data-using-literal-and-variable-values\obj\Debug\net9.0\store-and-retrive-data-using-literal-and-variable-values.sourcelink.json
+C:\belajar-bahasa-pemrograman-csharp\store-and-retrive-data-using-literal-and-variable-values\bin\Debug\net9.0\store-and-retrive-data-using-literal-and-variable-values.exe
+C:\belajar-bahasa-pemrograman-csharp\store-and-retrive-data-using-literal-and-variable-values\bin\Debug\net9.0\store-and-retrive-data-using-literal-and-variable-values.deps.json
+C:\belajar-bahasa-pemrograman-csharp\store-and-retrive-data-using-literal-and-variable-values\bin\Debug\net9.0\store-and-retrive-data-using-literal-and-variable-values.runtimeconfig.json
+C:\belajar-bahasa-pemrograman-csharp\store-and-retrive-data-using-literal-and-variable-values\bin\Debug\net9.0\store-and-retrive-data-using-literal-and-variable-values.dll
+C:\belajar-bahasa-pemrograman-csharp\store-and-retrive-data-using-literal-and-variable-values\bin\Debug\net9.0\store-and-retrive-data-using-literal-and-variable-values.pdb
+C:\belajar-bahasa-pemrograman-csharp\store-and-retrive-data-using-literal-and-variable-values\obj\Debug\net9.0\store-and-retrive-data-using-literal-and-variable-values.dll
+C:\belajar-bahasa-pemrograman-csharp\store-and-retrive-data-using-literal-and-variable-values\obj\Debug\net9.0\refint\store-and-retrive-data-using-literal-and-variable-values.dll
+C:\belajar-bahasa-pemrograman-csharp\store-and-retrive-data-using-literal-and-variable-values\obj\Debug\net9.0\store-and-retrive-data-using-literal-and-variable-values.pdb
+C:\belajar-bahasa-pemrograman-csharp\store-and-retrive-data-using-literal-and-variable-values\obj\Debug\net9.0\store-and-retrive-data-using-literal-and-variable-values.genruntimeconfig.cache
+C:\belajar-bahasa-pemrograman-csharp\store-and-retrive-data-using-literal-and-variable-values\obj\Debug\net9.0\ref\store-and-retrive-data-using-literal-and-variable-values.dll

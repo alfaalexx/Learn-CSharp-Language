@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "store-and-retrive-data-using-literal-and-variable-values/1.0.0": {
+        "runtime": {
+          "store-and-retrive-data-using-literal-and-variable-values.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "store-and-retrive-data-using-literal-and-variable-values/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
