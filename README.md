@@ -7,3 +7,6 @@ How Create and Run C# in Visual Studio Code:
 3. Create folder for your project
 4. run "dotnet new console -o nameProgram" in Terminal 
 6. run "dotnet run"
+
+
+Learn Fundamental C# Language from this website: https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
