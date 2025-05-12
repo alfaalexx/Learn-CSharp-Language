@@ -10,5 +10,9 @@ class Program{
         // 2. Excercise - Write your first code
         myFirstCode firstCode = new myFirstCode();
         firstCode.FirstCode();
+
+        // 3. Challenge:  Write code in the .NET Editor to display two messages
+        challengeFirstCode myChallengeFirstCode = new challengeFirstCode();
+        myChallengeFirstCode.myChallengeFirstCode();
     }
 }
