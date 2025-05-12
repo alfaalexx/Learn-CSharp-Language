@@ -16,7 +16,11 @@ class Program{
         // mySetGetValues.mySettingGettingValues();
 
         // Declare Implicitly Typed Local Variables
-        ImplicitlyVariables myImplicitlyVariables = new();
-        myImplicitlyVariables.implicitlyVariables();
+        // ImplicitlyVariables myImplicitlyVariables = new();
+        // myImplicitlyVariables.implicitlyVariables();
+
+        // Challenge: Display literal and variable values
+        DisplayLiteralAndVariable myDisplayLiteralAndVariable = new();
+        myDisplayLiteralAndVariable.challengeDisplayLiteral();
     }
 }

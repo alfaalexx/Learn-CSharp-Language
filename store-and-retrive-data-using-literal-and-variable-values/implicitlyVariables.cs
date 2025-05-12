@@ -3,7 +3,7 @@ public class ImplicitlyVariables{
     {
         // What are implicitly typed local variables?
         // An implicitly typed local variable is created by using the var keyword followed by a variable initialization. For example:
-        var message = "Hello, World!";
+        // var message = "Hello, World!";
         // In this example, a string variable was created using the var keyword instead of the string keyword.
         // The var keyword tells the C# compiler that the data type is implied by the assigned value. After the type is implied, the variable acts the same as if the actual data type had been used to declare it. The var keyword is used to save on keystrokes when types are lengthy or when the type is obvious from the context.
         // Because the variable message is immediately set to the string value "Hello World!", the C# compiler understands the intent and treats every instance of message as an instance of type string.

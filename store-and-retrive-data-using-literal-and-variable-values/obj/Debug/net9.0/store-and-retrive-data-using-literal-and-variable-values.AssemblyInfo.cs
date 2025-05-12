@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("store-and-retrive-data-using-literal-and-variable-values")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d55501c97f7d4b23e62e179179e7e7fa725229f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8936777fe3a8c87c6f3635cfe156cd7a31e87a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("store-and-retrive-data-using-literal-and-variable-values")]
 [assembly: System.Reflection.AssemblyTitleAttribute("store-and-retrive-data-using-literal-and-variable-values")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
