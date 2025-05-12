@@ -9,7 +9,7 @@ public class DeclareVariable{
         // A variable name is a human-friendly label that the compiler assigns to a memory address. When you want to store or change a value in that memory address, or whenever you want to retrieve the stored value, you just use the variable name you created.
 
         // Declare a variable
-        string firstName;
+        // string firstName;
         // In this case, you're creating a new variable of type string called firstName. From now on, this variable can only hold string values.
         // You can choose any name as long as it adheres to a few C# syntax rules for naming variables.
 
@@ -28,9 +28,9 @@ public class DeclareVariable{
         // The example string firstName; follows all of these rules and conventions, assuming you want to use this variable to store data that represents someone's first name.
 
         // Variable name examples
-        char userOption;
-        int gameScore;
-        decimal particlePerMillion;
-        bool processedCustomer;
+        // char userOption;
+        // int gameScore;
+        // decimal particlePerMillion;
+        // bool processedCustomer;
     }
 }

@@ -8,7 +8,11 @@ class Program{
         // literalValues.LiteralValues();
 
         // Declare Variable
-        DeclareVariable myVariable = new();
-        myVariable.myDeclareVariable();
+        // DeclareVariable myVariable = new();
+        // myVariable.myDeclareVariable();
+
+        // Excercise - Setting and getting values from variables
+        SettingGettingValues mySetGetValues = new();
+        mySetGetValues.mySettingGettingValues();
     }
 }
