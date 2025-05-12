@@ -8,11 +8,11 @@ class Program{
         // myProg.SayHello();
 
         // 2. Excercise - Write your first code
-        myFirstCode firstCode = new myFirstCode();
+        myFirstCode firstCode = new();
         firstCode.FirstCode();
 
         // 3. Challenge:  Write code in the .NET Editor to display two messages
-        challengeFirstCode myChallengeFirstCode = new challengeFirstCode();
+        challengeFirstCode myChallengeFirstCode = new();
         myChallengeFirstCode.myChallengeFirstCode();
     }
 }
