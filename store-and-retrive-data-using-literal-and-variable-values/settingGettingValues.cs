@@ -2,8 +2,8 @@ public class SettingGettingValues{
     public void mySettingGettingValues()
     {
         // Create your  first variable
-        string firstName;
-        firstName = "Bob";
+        // string firstName;
+        // firstName = "Bob";
         // To declare a variable, you enter the data type you want to use followed by a name for the variable. To assign a value to a variable, you use the assignment operator, which is a single equals character =.
 
         // Improperly assign a value to a variable

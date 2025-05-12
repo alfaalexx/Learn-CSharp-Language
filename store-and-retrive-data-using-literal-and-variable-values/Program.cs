@@ -12,7 +12,11 @@ class Program{
         // myVariable.myDeclareVariable();
 
         // Excercise - Setting and getting values from variables
-        SettingGettingValues mySetGetValues = new();
-        mySetGetValues.mySettingGettingValues();
+        // SettingGettingValues mySetGetValues = new();
+        // mySetGetValues.mySettingGettingValues();
+
+        // Declare Implicitly Typed Local Variables
+        ImplicitlyVariables myImplicitlyVariables = new();
+        myImplicitlyVariables.implicitlyVariables();
     }
 }
